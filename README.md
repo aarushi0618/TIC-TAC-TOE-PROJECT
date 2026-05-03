@@ -19,9 +19,9 @@ Ensure you have Python installed on your system.
 
 # Clone this repository:
 
-Bash
+
 git clone https://github.com/aarushi0618/TIC-TAC-TOE-PROJECT.git
 # Run the script:
 
-Bash
+
 python tic.py
